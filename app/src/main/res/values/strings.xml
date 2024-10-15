@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tableau app</string>
+    <string name="titre1" translatable="false">LES NYMPHEAS</string>
+    <string name="auteur1" translatable="false">Claude Monet</string>
+    <string name="année1" translatable="false">(1503-1506)</string>
+    <string name="desc1" translatable="false">Les Nympheas</string>
+    <string name="titre2" translatable="false">LA NUIT ETOILEE</string>
+    <string name="auteur2" translatable="false">Vincent Van Gogh</string>
+    <string name="année2" translatable="false">(1889)</string>
+    <string name="desc2" translatable="false">La nuit etoilee</string>
+    <string name="titre3" translatable="false">LE CRI</string>
+    <string name="auteur3" translatable="false">Edvard Munch</string>
+    <string name="année3" translatable="false">(1893)</string>
+    <string name="desc3" translatable="false">Le Cri</string>
+    <string name="titre4" translatable="false">LE BAISER</string>
+    <string name="auteur4" translatable="false">Gustav Klimt</string>
+    <string name="année4" translatable="false">(1907-1908)</string>
+    <string name="desc4" translatable="false">Le Baiser</string>
+    <string name="titre5" translatable="false">LE JARDIN DES DELICES</string>
+    <string name="auteur5" translatable="false">Jerome Bosch</string>
+    <string name="année5" translatable="false">(1490-1500)</string>
+    <string name="desc5" translatable="false">Le Jardin Des Delices</string>
+</resources>
